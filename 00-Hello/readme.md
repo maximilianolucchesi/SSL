@@ -4,6 +4,8 @@ K2051
 
 Lucchesi Maximiliano
 
+Standard C11
+
 Objetivo del trabajo:
 • Demostrar con, un programa simple, que se está en capacidad de editar,
 compilar, y ejecutar un programa C.
